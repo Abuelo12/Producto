@@ -1,0 +1,9 @@
+G:\Proyecto\Programacion BD\capaNegocio\bin\Debug\capaNegocio.dll
+G:\Proyecto\Programacion BD\capaNegocio\bin\Debug\capaNegocio.pdb
+G:\Proyecto\Programacion BD\capaNegocio\bin\Debug\capaDatos.dll
+G:\Proyecto\Programacion BD\capaNegocio\bin\Debug\capaEntidades.dll
+G:\Proyecto\Programacion BD\capaNegocio\bin\Debug\capaDatos.pdb
+G:\Proyecto\Programacion BD\capaNegocio\bin\Debug\capaEntidades.pdb
+G:\Proyecto\Programacion BD\capaNegocio\obj\Debug\capaNegocio.csprojResolveAssemblyReference.cache
+G:\Proyecto\Programacion BD\capaNegocio\obj\Debug\capaNegocio.dll
+G:\Proyecto\Programacion BD\capaNegocio\obj\Debug\capaNegocio.pdb

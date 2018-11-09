@@ -1,0 +1,15 @@
+G:\Proyecto\Programacion BD\formProveedorProductos\bin\Debug\formProveedorProductos.exe.config
+G:\Proyecto\Programacion BD\formProveedorProductos\bin\Debug\formProveedorProductos.exe
+G:\Proyecto\Programacion BD\formProveedorProductos\bin\Debug\formProveedorProductos.pdb
+G:\Proyecto\Programacion BD\formProveedorProductos\bin\Debug\capaEntidades.dll
+G:\Proyecto\Programacion BD\formProveedorProductos\bin\Debug\capaNegocio.dll
+G:\Proyecto\Programacion BD\formProveedorProductos\bin\Debug\capaDatos.dll
+G:\Proyecto\Programacion BD\formProveedorProductos\bin\Debug\capaEntidades.pdb
+G:\Proyecto\Programacion BD\formProveedorProductos\bin\Debug\capaNegocio.pdb
+G:\Proyecto\Programacion BD\formProveedorProductos\bin\Debug\capaDatos.pdb
+G:\Proyecto\Programacion BD\formProveedorProductos\obj\Debug\formProveedorProductos.csprojResolveAssemblyReference.cache
+G:\Proyecto\Programacion BD\formProveedorProductos\obj\Debug\formProveedorProductos.Form1.resources
+G:\Proyecto\Programacion BD\formProveedorProductos\obj\Debug\formProveedorProductos.Properties.Resources.resources
+G:\Proyecto\Programacion BD\formProveedorProductos\obj\Debug\formProveedorProductos.csproj.GenerateResource.Cache
+G:\Proyecto\Programacion BD\formProveedorProductos\obj\Debug\formProveedorProductos.exe
+G:\Proyecto\Programacion BD\formProveedorProductos\obj\Debug\formProveedorProductos.pdb

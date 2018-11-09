@@ -1,0 +1,5 @@
+G:\Proyecto\Programacion BD\capaEntidades\bin\Debug\capaEntidades.dll
+G:\Proyecto\Programacion BD\capaEntidades\bin\Debug\capaEntidades.pdb
+G:\Proyecto\Programacion BD\capaEntidades\obj\Debug\capaEntidades.csprojResolveAssemblyReference.cache
+G:\Proyecto\Programacion BD\capaEntidades\obj\Debug\capaEntidades.dll
+G:\Proyecto\Programacion BD\capaEntidades\obj\Debug\capaEntidades.pdb
